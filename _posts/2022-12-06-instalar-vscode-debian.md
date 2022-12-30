@@ -1,7 +1,7 @@
 ---
 title: Como instalar o Visual Studio Code no Debian 10
 date: 2022-12-06 20:55:00 -0300
-categories: [Procedimento, Instalação]
+categories: [Procedimento, Visual Studio Code]
 tags: [vscode, debian, tutorial, developer]
 pin: false
 ---
