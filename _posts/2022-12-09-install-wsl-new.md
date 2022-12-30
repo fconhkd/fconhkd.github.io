@@ -43,9 +43,9 @@ Aqui está o que você precisa fazer.
 
 1. Abra o PowerShell.
 2. Para obter o nome exato da distribuição desejada, digite `wsl -l -v`
-3. Entre no terminal `wsl --unregister <nome da distribuição>`.
+3. Entre no terminal `wsl --unregister <nome da distribuicao>`.
 ```powershell
-wsl --unregister <nome da distribuição>
+wsl --unregister <nome da distribuicao>
 ```
 
 ## Fazer backup e importar para o WSL
