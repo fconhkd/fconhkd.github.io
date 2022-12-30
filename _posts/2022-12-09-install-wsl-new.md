@@ -65,6 +65,6 @@ O acesso aos arquivos das distribuições Linux instaladas através do WSL já e
 3. Uma janela do Windows Explorer vai abrir e vocÊ pode escolher qual distro quer acessar.
 
 
-Espero que o resumo acima seja util.
+> Espero que o resumo acima seja util.
 
 `“Passarinho que acompanha morcego, acorda de cabeça para baixo e perde o canto”`{: .right }
