@@ -1,5 +1,5 @@
 ---
-title: Criar um Blog no Github (sem instalar nada)
+title: Criar um Blog no GitHub (sem instalar nada)
 date: 2022-12-14 18:55:00 -0300
 categories: [Procedimento, Sites e Blog]
 tags: [blog, github, gitpage, jekyll]
