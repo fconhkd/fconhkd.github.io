@@ -1,7 +1,7 @@
 ---
 title: Instalar o Linux no Windows com o WSL (Build 19041 ou superior)
 date: 2022-12-09 19:55:00 -0300
-categories: [Procedimento, WSL]
+categories: [Tutoriais, WSL]
 tags: [wsl, linux, virtual-machine]
 pin: false
 ---
