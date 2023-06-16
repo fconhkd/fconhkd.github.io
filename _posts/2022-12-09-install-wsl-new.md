@@ -20,7 +20,7 @@ Esse comando habilitará os recursos necessários para executar o WSL e instalar
 
 
 ### Instalar o WSL pela Windows Store
-Abra o aplicativo do [Windows Store](https://apps.microsoft.com/store/apps), pesquise por Ubuntu e clique em `Obter o aplicativo da Store`
+Abra o aplicativo do [Windows Store](https://apps.microsoft.com/store/apps){:target="_blank"}, pesquise por Ubuntu e clique em `Obter o aplicativo da Store`
 
 
 ### Verificar a versão do WSL que você está executando
