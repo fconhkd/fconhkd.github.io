@@ -8,7 +8,7 @@ pin: false
 
 ## Pré-requisitos
 
-As instruções pressupõe que você já sabe utilizar o [WSL](2022-12-09-install-wsl-new.md), e que esteja conectado com privilégios.
+As instruções pressupõe que você já sabe utilizar o [WSL]({% post_url 2022-12-09-install-wsl-new %}), e que esteja conectado com privilégios.
 
 ## Introdução
 
