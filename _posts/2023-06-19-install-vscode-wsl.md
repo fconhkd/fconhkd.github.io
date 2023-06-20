@@ -52,7 +52,7 @@ Para abrir um projeto da distribuição WSL, abra a linha de comando da distribu
 
 ### No Visual Studio Code
 
-Você também pode acessar mais opções de WSL do VS Code usando o atalho: `CTRL+SHIFT+P` no VS Code para criar a paleta de comandos. Se você digitar [WSL](2022-12-09-install-wsl-new.md) , verá uma lista das opções disponíveis, permitindo que você reabra a pasta em uma sessão WSL, especifique em qual distribuição deseja abrir e muito mais.
+Você também pode acessar mais opções de WSL do VS Code usando o atalho: `CTRL+SHIFT+P` no VS Code para criar a paleta de comandos. Se você digitar WSL, verá uma lista das opções disponíveis, permitindo que você reabra a pasta em uma sessão WSL, especifique em qual distribuição deseja abrir e muito mais.
 
 ![vscode-vscode](https://learn.microsoft.com/pt-br/windows/wsl/media/vscode-remote-command-palette.png)
 
